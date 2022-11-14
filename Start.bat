@@ -1,8 +1,8 @@
-@echo off
+@echo on
 title DisSpaceX
 
 :Reconnected
 
-node index.js
+node.
 
 goto Reconnected
